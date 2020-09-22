@@ -1,13 +1,6 @@
 {
  "data":
  {
-   "BNK_ACC_NO":"0100011380",
-   "CIF_NO":"0000000305",
-   "START_DT":"20101026",
-   "END_DT":"99991231",
-   "SIGN_NO":"",
-   "CHQ_IMG_BIN":"D:/storage/svs/cheques/IMG_00200109250000000305_20101026.JPEG",
-   "SIGN_IMG_BIN":"D:/storage/svs/signatures/SIGN_IMG_00200109250000000305_20101026.JPEG",
    "success": ""
  }
 }
